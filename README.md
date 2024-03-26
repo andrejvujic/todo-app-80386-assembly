@@ -1,7 +1,7 @@
 # Todo App Assembly
 
 Todo app written entirely in Intel 80386 Assembly using AT&T syntax.
-It probably works only on Linux because of the system calls
+Please note that it probably works only on Linux because of the system calls.
 
 # How to run?
 
