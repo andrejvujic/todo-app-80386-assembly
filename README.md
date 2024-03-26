@@ -1,8 +1,7 @@
 # Todo App Assembly
 
-Todo App written entirely in 80386 Assembly using AT&T syntax. This project was insipired by <a href="https://youtu.be/WnBXLmKk_qw?si=jBxjggwA2fn_uian">Tscoding's implementation in FASM</a>. Take a look at it <a href="https://github.com/tsoding/todo.asm">here</a>.
-
-The implementation isn't perfect yet and I will be working on improving it.
+Todo app written entirely in Intel 80386 Assembly using AT&T syntax.
+It probably works only on Linux because of the system calls
 
 # How to run?
 
